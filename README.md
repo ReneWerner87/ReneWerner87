@@ -1,4 +1,4 @@
-<img align="right" width="274" height="237" src="https://www.pinclipart.com/picdir/big/571-5718081_gopher-clip-art-png-clipart.png">
+<img width="274" height="237" src="https://www.pinclipart.com/picdir/big/571-5718081_gopher-clip-art-png-clipart.png">
 
 
 # Hi, I'm René Werner 👋
@@ -11,4 +11,4 @@
 - 📫 How to reach me: rene@gofiber.io
 
 
-![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=ReneWerner87&show_icons=true&theme=blue-green)
+![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=ReneWerner87&show_icons=true)
