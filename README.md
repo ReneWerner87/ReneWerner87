@@ -12,7 +12,8 @@
 
 ## Social media :mailbox_with_no_mail:
 
-[![Linkedin URL](https://img.shields.io/twitter/url?label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frene-werner-31750213a%2F)](https://www.linkedin.com/in/rene-werner-31750213a)
+[![Linkedin URL](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frene-werner-31750213a%2F)](https://www.linkedin.com/in/rene-werner-31750213a)
+[![Xing URL](https://img.shields.io/twitter/url?label=Xing&logo=xing&style=flat-square&url=https%3A%2F%2Fwww.xing.com%2Fprofile%2FRene_Werner50%2F)](https://www.xing.com/profile/Rene_Werner50)
 
 
 
