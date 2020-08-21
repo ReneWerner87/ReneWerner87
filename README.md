@@ -1,4 +1,4 @@
-<img align="right" width="274" height="237" src="https://www.pinclipart.com/picdir/big/571-5718253_golang-gopher-png-clipart.png">
+<img align="right" width="274" height="237" src="https://www.pinclipart.com/picdir/big/571-5718081_gopher-clip-art-png-clipart.png">
 
 
 # Hi, I'm René Werner 👋
