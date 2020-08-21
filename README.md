@@ -10,5 +10,10 @@
 - 🥊 🥋 In my spare time i go to martial arts(over 20 years), boxing and tricking and have experience in gymnastics, parkour and wrestling
 - 📫 How to reach me: rene@gofiber.io
 
+## Social media :mailbox_with_no_mail:
+
+[![Linkedin URL](https://img.shields.io/twitter/url?label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frene-werner-31750213a%2F)](https://www.linkedin.com/in/rene-werner-31750213a)
+
+
 
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=ReneWerner87&show_icons=true)
